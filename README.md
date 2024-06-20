@@ -6,9 +6,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dededsg)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548996704774)
 
-## Sobre mim
+## Meu Objetivo
 
-Sou um profissional no desenvolvimento FullStack e tenho como objetivo atuar como Back-End Java. Tenho experiência com Java EE nas versões 6, 8, 11 e 17, assim como em JSP, JSF e Angular. Trabalhei com Hibernate e JPA na parte de ORM, do framework Spring utilizei o Spring (Boot, Data e Security), e no banco de dados trabalhei com o PL/SQL da Oracle além de ter conhecimento com MySQL.
+Adentrar no mercado de trabalho na área de tecnologia da informação e comunicação e consolidar a minha carreira no ramo, paralelamente a aperfeiçoar minhas habilidades técnicas e criar experiências
+profissionais no âmbito do desenvolvimento back end JAVA.
+
 
 ### Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
