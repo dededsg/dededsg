@@ -31,7 +31,9 @@ qualidade que buscam melhorar a educação brasileira; Trabalho de Conclusão de
 ## Educação
 
 Técnico em Informática para Internet integrado ao Ensino Médio no Instituto Federal Catarinense Campus Sombrio
+<br>
 Mar 2021 – Dez 2023
 
 Bacharelado em Tecnologias da Informação e Comunicação na Universidade Federal de Santa Catarina
+<br>
 Mar 2024 – atual
