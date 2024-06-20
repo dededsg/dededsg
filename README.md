@@ -23,8 +23,7 @@ profissionais no âmbito do desenvolvimento back end JAVA.
 
 ## Projetos em Destaque
 
-<div style="display: flex; gap: 5rem">
-<div>
+
 ## Educação
 
 Comecei minha graduação na Universidade Federal de Santa Catarina em Engenharia da Computação em 08/2018 e fiz até 01/2022. Atualmente, estou matriculado mas fazendo materias isoladas no período noturno. Meu intuito é iniciar uma nova graduação em Análise e Desenvolvimento de Sistemas e validar algumas matérias.
