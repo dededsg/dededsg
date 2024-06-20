@@ -21,9 +21,17 @@ profissionais no âmbito do desenvolvimento back end JAVA.
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Projetos em Destaque
+## Projetos pessoais
 
+SlideIt um software educacional focado na comercialização de slides educacionais visando a conexão de criador com professor, de modo a proporcionar slides de
+qualidade que buscam melhorar a educação brasileira; Trabalho de Conclusão de Curso; Responsável por todo o back end na linguagem PHP, e por todo o front end em HTML e CSS.
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dededsg&repo=SlideIt&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dededsg/TCC)
 
 ## Educação
 
-Comecei minha graduação na Universidade Federal de Santa Catarina em Engenharia da Computação em 08/2018 e fiz até 01/2022. Atualmente, estou matriculado mas fazendo materias isoladas no período noturno. Meu intuito é iniciar uma nova graduação em Análise e Desenvolvimento de Sistemas e validar algumas matérias.
+Técnico em Informática para Internet integrado ao Ensino Médio no Instituto Federal Catarinense Campus Sombrio
+Mar 2021 – Dez 2023
+
+Bacharelado em Tecnologias da Informação e Comunicação na Universidade Federal de Santa Catarina
+Mar 2024 – atual
