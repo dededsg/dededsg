@@ -26,7 +26,7 @@ profissionais no âmbito do desenvolvimento back end JAVA.
 SlideIt um software educacional focado na comercialização de slides educacionais visando a conexão de criador com professor, de modo a proporcionar slides de
 qualidade que buscam melhorar a educação brasileira; Trabalho de Conclusão de Curso; Responsável por todo o back end na linguagem PHP, e por todo o front end em HTML e CSS.
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dededsg&repo=SlideIt&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dededsg/TCC)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dededsg&repo=TCC&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dededsg/TCC)
 
 ## Educação
 
